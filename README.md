@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Shubham 👋  
 
-<!--
-**Shubh2k05/Shubh2k05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA student exploring the intersection of technology, design, and creativity.  
+🚀 Currently building **Localease** — focused on making local discovery simpler and smarter.  
+💼 Previously interned at **Webel** and **Dataspace**, working on real-world web and data-driven projects.  
 
-Here are some ideas to get you started:
+### ⚙️ What Drives Me  
+- Building products that solve real problems  
+- Writing clean, purposeful code  
+- Designing user experiences that actually make sense  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack  
+`C++` • `HTML` • `CSS` • `JavaScript` • `Figma` • `Canva` • `Git`
+
+---
+
+📬 **Let’s connect:**  
+[LinkedIn](Shubham_Chatterjee2k05) • [Instagram](shubhineclipse) • 
