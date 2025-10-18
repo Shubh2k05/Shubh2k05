@@ -15,4 +15,4 @@
 ---
 
 📬 **Let’s connect:**  
-[LinkedIn](Shubham_Chatterjee2k05) • [Instagram](shubhineclipse) • 
+[LinkedIn](Shubham_Chatterjee2k05) • [Instagram](https://www.instagram.com/shubhineclipse__?igsh=MnN2em1xNHIxaGZ4) • 
